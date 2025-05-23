@@ -1,5 +1,5 @@
 export const Home = () => {
-    return <div>
+    return <div className="min-h-dvh ">
 
         {/* Theme Toggle */}
 
@@ -7,6 +7,14 @@ export const Home = () => {
         {/* Background Effects */}
 
 
-        
+        {/* Navbar */}
+
+
+        {/* Main Content */}
+
+
+        {/* Footer */}
+
+
     </div>
 }
